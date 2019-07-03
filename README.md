@@ -1,6 +1,5 @@
 # -CrawlerAnbient
-Script para extração e download dos animes do Anbient.
-
+Script to extract and download Anbient animes.
 
 Install
 
