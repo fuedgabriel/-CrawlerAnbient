@@ -8,7 +8,7 @@ Install
    pip install -r requeriment.txt
    
 2- Install google-crhome
-   download: https://chromedriver.storage.googleapis.com/74.0.3729.6/chromedriver_linux64.zip 
+   download: https://chromedriver.storage.googleapis.com/76.0.3809.68/chromedriver_win32.zip
    (after the download is complete add the "chromedriver.exe" file to your system path)
    
 3- to refresh the anime list type: "python3 ListAnime.py"
